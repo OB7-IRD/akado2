@@ -1,0 +1,15 @@
+[submodule "akado-core"]
+	path = akado-core
+	url = git@git.outils-is.ird.fr:Observatoire_thonier/akado-core.git
+[submodule "akado-avdth-installer"]
+	path = akado-avdth-installer
+	url = git@git.outils-is.ird.fr:Observatoire_thonier/akado-avdth-installer.git
+[submodule "akado-avdth-ui"]
+	path = akado-avdth-ui
+	url = git@git.outils-is.ird.fr:Observatoire_thonier/akado-avdth-ui.git
+[submodule "akado-driver-avdth"]
+	path = akado-driver-avdth
+	url = git@git.outils-is.ird.fr:Observatoire_thonier/akado-driver-avdth.git
+[submodule "akado-avdth-common"]
+	path = akado-avdth-common
+	url = git@git.outils-is.ird.fr:Observatoire_thonier/akado-avdth-common.git

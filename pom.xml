@@ -6,14 +6,14 @@
     <version>2.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>../akado-avdth-ui</module>
-        <module>../akado-avdth-installer</module>
-        <module>../akado-avdth-common</module>
-        <module>../akado-driver-avdth</module>
-        <module>../akado-core</module>
+        <module>akado-avdth-ui</module>
+        <module>akado-avdth-installer</module>
+        <module>akado-avdth-common</module>
+        <module>akado-driver-avdth</module>
+        <module>akado-core</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <name>AKaDo :: AVDTH Parent Project</name>
+    <name>AKaDo :: AVDTH Main Project</name>
 </project>
